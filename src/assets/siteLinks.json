@@ -1,6 +1,6 @@
 [
   {
-    "icon": "Blog",
+    "icon": "Tools",
     "name": "IT-工具",
     "link": "https://tools.dos7.cn/"
   },
@@ -10,7 +10,7 @@
     "link": "https://pan.dos7.cn:5244/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "MovieFilterOutlined",
     "name": "影音",
     "link": "http://iqy.dos7.cn:4333/"
   },
@@ -20,12 +20,12 @@
     "link": "https://home.dos7.cn/"
   },
   {
-    "icon": "Book",
+    "icon": "BrandHipchat",
     "name": "ChatGPT",
     "link": "https://chatgpt.dos7.cn/"
   },
   {
-    "icon": "Fire",
+    "icon": "Cloud",
     "name": "备份网盘",
     "link": "http://www.dos7.cn:5244"
   },
