@@ -7,7 +7,7 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.dos7.cn:5244/"
+    "link": "http://pan.dos7.cn:5244/"
   },
   {
     "icon": "Play",
@@ -27,7 +27,7 @@
   {
     "icon": "Cloud",
     "name": "备份网盘",
-    "link": "http://www.dos7.cn:5244"
+    "link": "https://81fe0e97-e712-41af-bd83-ce188a6ca043-00-33ibvhegzb8oc.riker.replit.dev/"
   },
   {
     "icon": "LaptopCode",
