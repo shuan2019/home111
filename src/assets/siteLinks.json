@@ -1,13 +1,13 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "IT-工具",
+    "link": "https://tools.dos7.cn/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://pan.dos7.cn:5244/"
   },
   {
     "icon": "CompactDisc",
@@ -17,17 +17,17 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://home.dos7.cn/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "ChatGPT",
+    "link": "https://chatgpt.dos7.cn/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "备份网盘",
+    "link": "https://81fe0e97-e712-41af-bd83-ce188a6ca043-00-33ibvhegzb8oc.riker.replit.dev/"
   },
   {
     "icon": "LaptopCode",
