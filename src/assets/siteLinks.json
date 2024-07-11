@@ -7,17 +7,17 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.dos7.cn:6060/"
+    "link": "https://too.dos7.cn:6060/"
   },
   {
     "icon": "Play",
     "name": "影音",
-    "link": "https://iqy.dos7.cn:3030/"
+    "link": "https://too.dos7.cn:3030/"
   },
   {
     "icon": "Compass",
     "name": "管理面板",
-    "link": "https://iqy.dos7.cn:16626/"
+    "link": "https://too.dos7.cn:16626/"
   },
   {
     "icon": "Comment",
